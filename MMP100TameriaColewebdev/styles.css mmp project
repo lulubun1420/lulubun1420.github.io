@@ -1,0 +1,18 @@
+body{
+    background-color: blueviolent;
+    }
+    
+    p{font-family: 'times new roman' , times, serif ;}
+    
+    
+    
+    .citation{
+         font-family: 'times new roman' , times, serif;
+         font size: 0.6em 
+         }
+         
+         #intro{
+         font-family; verdana, geneva, tahoma, sans-serif
+         -
+         
+         }
